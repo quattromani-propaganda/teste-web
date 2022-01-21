@@ -39,3 +39,4 @@ Você deverá fazer um fork deste projeto e criar um branch com seu nome, e quan
 * Alcance dos objetivos propostos
 * Adaptação mobile (layout responsivo)
 
+<img src="https://api.quattromani.com.br/badges/github/views/quattromani-propaganda/teste-web" style="display: none;" width="0" />
